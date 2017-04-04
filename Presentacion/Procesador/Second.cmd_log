@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Pineda/Desktop/Presentacion/Procesador/Second.xst" -ofn "C:/Users/Pineda/Desktop/Presentacion/Procesador/Second.syr" 
